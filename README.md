@@ -1,1 +1,1 @@
-# NonNegativeSparsePCA
+# PCA
